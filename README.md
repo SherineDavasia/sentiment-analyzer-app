@@ -1,8 +1,4 @@
-Absolutely, Ghumzz 💌! Here's a **short, beginner-friendly README** for your project — clean, cool, and Streamlit-ready 💅
-
----
-
-## ✈️ Airline Tweet Sentiment Analyzer
+✈️ Airline Tweet Sentiment Analyzer
 
 This is a simple web app that analyzes the sentiment of tweets about airlines — whether they’re **positive**, **negative**, or **neutral**.
 
